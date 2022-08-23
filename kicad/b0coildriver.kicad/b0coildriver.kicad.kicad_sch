@@ -3678,7 +3678,7 @@
     (property "Reference" "R1" (id 0) (at 58.6486 76.6353 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "100k" (id 1) (at 58.6486 79.1722 0)
+    (property "Value" "2.2k" (id 1) (at 58.6486 79.1722 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (id 2) (at 57.15 77.47 0)
@@ -3969,7 +3969,7 @@
       (reference "JP2") (unit 1) (value "Jumper_2_Open") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
     (path "/ecd6e557-6424-43b3-bb05-b304d5281e8c"
-      (reference "R1") (unit 1) (value "100k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+      (reference "R1") (unit 1) (value "2.2k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/6778cc9c-40aa-49e6-b579-e7041a776a97"
       (reference "R2") (unit 1) (value "3,3k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
